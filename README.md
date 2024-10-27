@@ -10,3 +10,8 @@ The objective of this practice is to implement the logic of a navigation algorit
 This practice involves creating a Formula 1 car that follows a line to navigate around a track.
 
 [Blog: Follow Line](https://sites.google.com/view/mobilerobotics/follow-line)
+
+## P3 - Obstacule Avoidance
+This practice involves a Formula 1 car navigating a circuit while avoiding obstacles.
+
+[Blog: Obstacule Avoidance](https://sites.google.com/view/mobilerobotics/obstacule-avoidance)
