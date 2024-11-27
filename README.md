@@ -19,4 +19,4 @@ This project involves a Formula 1 car navigating a circuit while avoiding obstac
 ## P4 - Global Navigation
 This project focuses on the development and implementation of an autonomous taxi system designed to navigate through a city independently
 
-[Blog: Obstacule Avoidance](https://sites.google.com/view/mobilerobotics/global-navigation)
+[Blog: Global Navigation](https://sites.google.com/view/mobilerobotics/global-navigation)
