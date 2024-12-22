@@ -20,3 +20,8 @@ This project involves a Formula 1 car navigating a circuit while avoiding obstac
 This project focuses on the development and implementation of an autonomous taxi system designed to navigate through a city independently
 
 [Blog: Global Navigation](https://sites.google.com/view/mobilerobotics/global-navigation)
+
+## P5 - Montecarlo Robot Localization
+This project focuses on the development and implementation of a system to determine the location of a robot on a map using the Monte Carlo algorithm.
+
+[Blog: Montecarlo Robot Localization](https://sites.google.com/view/mobilerobotics/montecarlo-robot-localization)
